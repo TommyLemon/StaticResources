@@ -1,4 +1,4 @@
-# APIJSON后端快速部署 - Java
+# APIJSON后端极速部署 - Java
 
 ### 1.下载后解压
 
