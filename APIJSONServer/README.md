@@ -10,18 +10,16 @@
 
 #### 直接运行
 
-Windows 或 MacOS 可直接双击 jar 包启动。
+Windows 或 MacOS 可直接双击 jar 包运行。
 
-#### 命令行启动
+#### 命令行运行
 
-* 前台启动
+前台运行
 ```
 java -jar {替换为所在目录路径}apijson-demo-roleless2.9.1-org.jar
 ```
 
-或
-
-* 后台启动
+或 后台运行
 ```
 nohup java -jar {替换为所在目录路径}apijson-demo-roleless2.9.1-org.jar > {替换为所在目录路径}apijson_log20181003.txt  &
 tailf {替换为所在目录路径}apijson_log20181003.txt
