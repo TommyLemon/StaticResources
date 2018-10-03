@@ -24,6 +24,9 @@ java -jar {替换为所在目录路径}apijson-demo-roleless2.9.1-org.jar
 或 后台运行
 ```
 nohup java -jar {替换为所在目录路径}apijson-demo-roleless2.9.1-org.jar > {替换为所在目录路径}apijson_log20181003.txt  &
+```
+可查看日志
+```
 tailf {替换为所在目录路径}apijson_log20181003.txt
 ```
 
