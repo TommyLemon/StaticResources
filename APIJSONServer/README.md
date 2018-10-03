@@ -16,15 +16,15 @@ Windows 或 MacOS 可直接双击 jar 包启动。
 
 * 前台启动
 ```
-java -jar {所在目录}apijson-demo-roleless2.9.1-org.jar
+java -jar {替换为所在目录路径}apijson-demo-roleless2.9.1-org.jar
 ```
 
 或
 
 * 后台启动
 ```
-nohup java -jar {所在目录}apijson-demo-roleless2.9.1-org.jar > {所在目录}apijson_log20181003.txt  &
-tailf {所在目录}apijson_log20181003.txt
+nohup java -jar {替换为所在目录路径}apijson-demo-roleless2.9.1-org.jar > {替换为所在目录路径}apijson_log20181003.txt  &
+tailf {替换为所在目录路径}apijson_log20181003.txt
 ```
 
 
