@@ -3,6 +3,8 @@
 ### 1.下载后解压
 
 [打开这个项目的GitHub主页](https://github.com/TommyLemon/StaticResources) &gt; Clone or download &gt; [Download ZIP](https://github.com/TommyLemon/StaticResources/archive/master.zip) &gt; 解压到一个路径并记住这个路径。
+<br />
+其中 jar包文件 和 lib文件夹 必须在同一文件夹下。
 
 <br />
 
@@ -17,6 +19,8 @@ Windows 或 MacOS 可直接双击 jar 包运行。
 ```
 ps -ef|grep java
 ```
+
+<br />
 
 #### 命令行运行
 
@@ -36,6 +40,7 @@ nohup java -jar {替换为所在目录路径}apijson-demo-roleless2.9.3.jar > {�
 tailf {替换为所在目录路径}apijson_log20181005.txt
 ```
 
+<br />
 
 <h4>运行后会出现 APIJSON的测试日志，最后显示 "APIJSON已启动" ，说明已启动完成。</h4>
 
