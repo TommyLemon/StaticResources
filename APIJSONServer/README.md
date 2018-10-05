@@ -10,7 +10,7 @@
 
 ### 2.运行后端工程
 
-请先保证已 [配置 Java 运行环境](https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=java%20%E7%8E%AF%E5%A2%83&oq=java%2520%25E8%25BF%2590%25E8%25A1%258C%25E7%258E%25AF%25E5%25A2%2583&rsv_pq=d879cd0700028015&rsv_t=657eXMFo1t2RvFyaDhC7V9OFMbKxOzGfNR5YwCGWfqBuY6aD3XAeUPePjlw&rqlang=cn&rsv_enter=1&rsv_sug3=3&rsv_sug1=2&rsv_sug7=100&rsv_sug2=0&inputT=296&rsv_sug4=626)。
+请先确保已 [配置 Java 运行环境](https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=java%20%E7%8E%AF%E5%A2%83&oq=java%2520%25E8%25BF%2590%25E8%25A1%258C%25E7%258E%25AF%25E5%25A2%2583&rsv_pq=d879cd0700028015&rsv_t=657eXMFo1t2RvFyaDhC7V9OFMbKxOzGfNR5YwCGWfqBuY6aD3XAeUPePjlw&rqlang=cn&rsv_enter=1&rsv_sug3=3&rsv_sug1=2&rsv_sug7=100&rsv_sug2=0&inputT=296&rsv_sug4=626)。
 
 #### 直接运行
 
