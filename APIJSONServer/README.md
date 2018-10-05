@@ -13,21 +13,27 @@
 #### 直接运行
 
 Windows 或 MacOS 可直接双击 jar 包运行。
+运行太快会看不出有反应，可以查看 java 进程：
+```
+ps -ef|grep java
+```
 
 #### 命令行运行
 
-前台运行
+前台运行：
 ```
-java -jar {替换为所在目录路径}apijson-demo-roleless2.9.1-org.jar
+java -jar {替换为所在目录路径}apijson-demo-roleless2.9.3.jar
 ```
 
-或 后台运行
+<br />
+
+或 后台运行：
 ```
-nohup java -jar {替换为所在目录路径}apijson-demo-roleless2.9.1-org.jar > {替换为所在目录路径}apijson_log20181003.txt  &
+nohup java -jar {替换为所在目录路径}apijson-demo-roleless2.9.3.jar > {替换为所在目录路径}apijson_log20181005.txt  &
 ```
-可查看日志
+可查看日志：
 ```
-tailf {替换为所在目录路径}apijson_log20181003.txt
+tailf {替换为所在目录路径}apijson_log20181005.txt
 ```
 
 
