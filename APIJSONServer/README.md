@@ -1,5 +1,7 @@
 # APIJSON后端极速部署 - Java
 
+极速部署用的是已打好的可运行 jar 包，目前不支持自定义 [数据库配置](https://github.com/TommyLemon/APIJSON/blob/master/APIJSON-Java-Server/APIJSONDemo/src/main/java/apijson/demo/server/DemoSQLConfig.java)。
+
 ### 1.下载后解压
 
 [打开这个项目的GitHub主页](https://github.com/TommyLemon/StaticResources) &gt; Clone or download &gt; [Download ZIP](https://github.com/TommyLemon/StaticResources/archive/master.zip) &gt; 解压到一个路径并记住这个路径。
