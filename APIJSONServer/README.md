@@ -86,6 +86,6 @@ tailf {替换为所在目录路径}apijson_log20181005.txt
 <br />
 
 ### 5.测试接口<br />
-直接使用 [APIJSON在线工具](http://apijson.cn/) 或 下载主页提供的 [客户端App](https://github.com/TommyLemon/APIJSON)。
+直接使用 [APIJSON在线工具](https://github.com/TommyLemon/APIJSONAuto) 或 下载主页提供的 [客户端App](https://github.com/TommyLemon/APIJSON)。
 
 <br />
